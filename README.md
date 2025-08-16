@@ -1,4 +1,4 @@
-# 🇯🇵 Hướng dẫn Test Japanese Text Analysis API
+# Hướng dẫn Test Japanese Text Analysis API
 
 
 > 🎯 **Mục tiêu**: Test API phân tích văn bản tiếng Nhật thông qua giao diện web
