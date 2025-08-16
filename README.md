@@ -77,7 +77,7 @@ Mở trình duyệt và truy cập: **http://localhost:8501**
 ### ✅ Test 7: Lỗi validation ❌
 **Nhập**: `Em ăn cơm chưa`
 **Kết quả mong đợi**: Hiển thị lỗi "Text must contain valid Japanese characters"
-
+![Error Result](error.png)
 
 ### ✅ Test 8: Văn bản rỗng ⚠️
 **Nhập**: (để trống)
